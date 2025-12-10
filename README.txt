@@ -1,3 +1,11 @@
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│ This is a fork of Google's original word2vec implementation from 2013,  │
+│               heavily commented by @danielfalbo in 2026.                │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+
+
 Tools for computing distributed representtion of words
 ------------------------------------------------------
 
